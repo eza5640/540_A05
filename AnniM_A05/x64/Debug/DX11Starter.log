@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\EmmZeeAy\Desktop\AnniM_A05\Game.cpp(98,50): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\EmmZeeAy\Desktop\AnniM_A05\Game.cpp(163,22): warning C4244:  'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\EmmZeeAy\Desktop\AnniM_A05\Game.cpp(163,15): warning C4244:  'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\EmmZeeAy\Desktop\AnniM_A05\Game.cpp(288,22): warning C4244:  'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Main.cpp
+  Generating Code...
+C:\Users\EmmZeeAy\Desktop\AnniM_A05\Game.cpp(288,15): warning C4244:  'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  DX11Starter.vcxproj -> C:\Users\EmmZeeAy\Desktop\AnniM_A05\x64\Debug\DX11Starter.exe
